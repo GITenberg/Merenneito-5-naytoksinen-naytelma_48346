@@ -1,9 +1,13 @@
 _repo: Merenneito-5-naytoksinen-naytelma_48346
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Koskelainen, Yrjö
     gutenberg_agent_id: '44560'
     url: http://www.gutenberg.org/2009/agents/44560
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Henrik
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48346#Merenneito-5-naytoksinen-naytelma
 gutenberg_issued: '2015-02-23'
 gutenberg_type: Text
 identifiers:
